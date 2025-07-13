@@ -1,4 +1,4 @@
-# Diwali Sales Analysis 🎉📊
+# Store Sales Analysis 🎉📊
 
 This project focuses on analyzing Diwali sales data to gain insights and improve customer experience and sales strategies. It is a beginner-friendly Python project with step-by-step analysis techniques, great for those interested in data analysis and visualization.
 
@@ -8,7 +8,7 @@ The purpose of this project is to:
 - Gain insights into popular products, customer segments, and potential improvements in sales strategies.
 
 ## Key Steps in Analysis
-1. **Data Loading**: Import the Diwali sales dataset using pandas.
+1. **Data Loading**: Import the store sales dataset using pandas.
 2. **Data Cleaning**: Handle missing values, correct data types, and perform any necessary data transformations.
 3. **Exploratory Data Analysis (EDA)**: Analyze customer demographics, product preferences, and seasonal sales trends.
 4. **Data Visualization**: Use libraries like Matplotlib and Seaborn to create informative charts and visualizations.
